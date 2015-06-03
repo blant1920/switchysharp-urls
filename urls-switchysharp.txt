@@ -3,5 +3,5 @@
 [Wildcard]
 www.planetsuzy.org/*
 www.nudecelebforum.com/*
-
+[RegExp]
 #END
