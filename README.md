@@ -1,0 +1,2 @@
+# switchysharp-urls
+urls list
